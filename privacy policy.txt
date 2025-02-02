@@ -1,0 +1,53 @@
+Privacy Policy for Foodify
+Effective Date: 02/02/2025
+
+Foodify We value your privacy and is committed to protecting the personal information you share with us. This Privacy Policy outlines how we collect, use, and protect your information when you use the Foodify mobile application ("the App").
+
+By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+1. Information We Collect
+When you use Foodify, we may collect the following types of information:
+
+Personal Data:
+Name: Your full name for account creation and personalization.
+Email Address: Used for authentication via Firebase and communication purposes.
+Usage Data:
+Public Information: If you sign in using Facebook or Google, we may collect public profile information available through those services, such as your profile picture and public details like email address (depending on permissions granted).
+Storage Data:
+Photos: If you choose to upload or save photos (e.g., recipe images) within the App, these will be stored securely on our servers.
+2. How We Use Your Information
+The information we collect is used for the following purposes:
+
+Authentication: To allow you to sign in via Firebase, Facebook, and Google.
+App Improvements: To analyze user activity and improve app features and performance.
+Notifications: To send you notifications about app updates, new features, and promotions that may interest you.
+Storage: To store and manage photos and images related to your content within the app.
+3. Data Sharing
+We do not share your personal information with third parties, except for the following:
+
+Firebase: We use Firebase for authentication purposes. Firebase may process your data in accordance with their privacy policy (https://firebase.google.com/support/privacy).
+Facebook and Google: If you choose to log in using Facebook or Google, those services may access your public profile information as per their respective privacy policies.
+4. Data Security
+We are committed to securing your personal information. We implement encryption to protect your data both in transit and at rest. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security.
+
+5. Your Rights
+You have the right to:
+
+Access: You can request access to the personal data we hold about you.
+Correction: You can update or correct your personal data.
+Deletion: You can delete your account and associated personal data by contacting us via the contact details below.
+6. Children's Privacy
+Foodify is not intended for users under the age of 13, and we do not knowingly collect personal data from children. If we discover that we have collected personal information from a child under 13, we will take steps to delete that information.
+
+7. Third-Party Services
+Foodify uses the following third-party services, which may collect and process data in accordance with their privacy policies:
+
+Firebase: A backend service for authentication and data storage.
+Facebook and Google: For login purposes (please refer to their privacy policies for more information).
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy on this page. The updated policy will be effective as of the date it is posted.
+
+9. Contact Us
+If you have any questions about this Privacy Policy or wish to exercise your rights regarding your personal information, please contact us at:
+
+Email: unsocial202510@gmail.com
